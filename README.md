@@ -127,21 +127,21 @@ refact: reorganizar módulo de base de datos
 > Todo cambio debe pasar por el proceso de PR y revisión
 
 ## Estructura del Proyecto
-
+```
 sage-unsis-backend/
 ├── main.py              # Punto de entrada de la aplicación
 ├── requirements.txt     # Dependencias del proyecto
 ├── .gitignore          # Archivos ignorados por Git
 └── README.md           # Este archivo
-
+```
 ## Arquitectura
 
 >[!NOTE]
 > **Clean Architecture:** Este proyecto seguirá la Clean Architecture. Organiza el código en capas con reglas de dependencia (las capas internas no dependen de las externas). Estructura recomendada:
 >Sigue la arquitectura a como esta al agregar código nuevo y crea tests para las capas críticas.
-```
+
 
 ## 📝 Licencia
 
 Proyecto de código abierto. Consulta con los mantenedores para más detalles.
-```
+
