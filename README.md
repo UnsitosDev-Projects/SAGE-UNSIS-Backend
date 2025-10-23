@@ -128,7 +128,6 @@ refact: reorganizar módulo de base de datos
 
 ## Estructura del Proyecto
 
-```
 sage-unsis-backend/
 ├── main.py              # Punto de entrada de la aplicación
 ├── requirements.txt     # Dependencias del proyecto
