@@ -117,7 +117,7 @@ refact: reorganizar módulo de base de datos
 
 - `main` → Producción (solo merges desde `dev`)
 - `dev` → Desarrollo (rama principal para PRs)
-- `feature/*` → Nuevas funcionalidades
+- `feat/*` → Nuevas funcionalidades
 - `fix/*` → Corrección de bugs
 - `hotfix/*` → Correcciones urgentes en producción
 
