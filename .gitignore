@@ -25,6 +25,9 @@ MANIFEST
 venv/
 env/
 sage-unsis-backend/
+bin/
+include/
+pyvenv.cfg
 
 # IDE
 .vscode/
