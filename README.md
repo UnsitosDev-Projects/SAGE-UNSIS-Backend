@@ -17,6 +17,10 @@ Backend desarrollado en Python con FastAPI para el sistema SAGE-UNSIS.
 
 ## Instalación
 
+>[!IMPORTANT]
+>**Stack**
+>FastAPI + SQLAlchemy + Alembic (migraciones) + Pydantic + Uvicorn
+
 1. **Clonar el repositorio:**
 ```bash
 git clone https://github.com/UnsitosDev-Projects/SAGE-UNSIS-Backend.git
